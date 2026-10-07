@@ -1,0 +1,14 @@
+-COOL/                          ← корень репозитория
+├── contracts/
+│   ├── pow-giver.fc
+│   └── pow-verifier.fc
+├── wrappers/
+│   ├── PoWGiver.ts
+│   └── PoWVerifier.ts
+├── scripts/
+│   └── deploy.ts
+├── blueprint.config.ts
+├── package.json
+├── tsconfig.json
+├── .gitignore
+└── README.md
